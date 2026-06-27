@@ -1,0 +1,382 @@
+{
+  "id": "sun-annieposting",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@annieposting Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_b8f223532a13",
+    "display_name": "annieposting",
+    "user_id": "@annieposting",
+    "description": "Community Archive-derived proof-of-search sun for @annieposting.",
+    "document_count": 33935,
+    "word_count": 552094,
+    "active_days": 1214,
+    "emissions": [
+      "Think",
+      "Good",
+      "Don",
+      "Elytramithra",
+      "Only",
+      "Should"
+    ],
+    "generated_at": "2026-06-27T15:29:52.815105+00:00",
+    "color": "#f59e0b",
+    "mass": 13.221
+  },
+  "planets": [
+    {
+      "id": "planet_41591d408bea",
+      "name": "Think",
+      "summary": "Archive cluster around think: 29808 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "time",
+        "thats",
+        "most",
+        "love"
+      ],
+      "artifacts": [
+        {
+          "id": "art_517e1653e4c0",
+          "title": "Think receipt from 2024-05-11",
+          "excerpt": "I cannot believe this worked. I live in san francisco now. https://t.co/io7NTcufaJ",
+          "source_document_id": "1789391663766421579",
+          "timestamp": "2024-05-11T20:26:32+00:00",
+          "url": "https://x.com/annieposting/status/1789391663766421579",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, thats, most."
+        },
+        {
+          "id": "art_924c153ffe00",
+          "title": "Think receipt from 2024-04-27",
+          "excerpt": "im not a doll but if a girl with a tech job wanted to make me her housewife, she would forget what her home looks like with even a spec of dust in it and the dishes would be perpetually clean",
+          "source_document_id": "1784358416259146165",
+          "timestamp": "2024-04-27T23:06:12+00:00",
+          "url": "https://x.com/annieposting/status/1784358416259146165",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, thats, most."
+        },
+        {
+          "id": "art_a2bf6906270f",
+          "title": "Think receipt from 2024-05-12",
+          "excerpt": "@_n_a_l buddy do you think i'd have been so constantly insane on this website if i had enjoyable living conditions",
+          "source_document_id": "1789447769058693598",
+          "timestamp": "2024-05-12T00:09:29+00:00",
+          "url": "https://x.com/annieposting/status/1789447769058693598",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, thats, most."
+        },
+        {
+          "id": "art_eb25e547e36a",
+          "title": "Think receipt from 2024-04-01",
+          "excerpt": "just tried it again, case in point: https://t.co/525Sum8PkG https://t.co/2TP1kvFkKt",
+          "source_document_id": "1774926121521553620",
+          "timestamp": "2024-04-01T22:25:38+00:00",
+          "url": "https://x.com/annieposting/status/1774926121521553620",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, thats, most."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_526e960aa1c4",
+      "proof_score": 1,
+      "mass": 39.058,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_354e31146825",
+      "name": "Good",
+      "summary": "Archive cluster around good: 1026 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "really",
+        "bad",
+        "thing",
+        "girl"
+      ],
+      "artifacts": [
+        {
+          "id": "art_da7765b00d2a",
+          "title": "Good receipt from 2021-03-01",
+          "excerpt": "Good Night https://t.co/IYnh2mBjJ3",
+          "source_document_id": "1366185711318093824",
+          "timestamp": "2021-03-01T00:37:10+00:00",
+          "url": "https://x.com/annieposting/status/1366185711318093824",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, bad, thing."
+        },
+        {
+          "id": "art_ae869b73a08c",
+          "title": "Good receipt from 2024-08-09",
+          "excerpt": "girl i was debilitatingly obsessed with's twitter @ was her name with posting afterwards so I copied it when I made this account and partly because its a good @ and partly bc I miss her a crippling amount, I can never ever change it https://t.co/hDFRldpSdS",
+          "source_document_id": "1822003442250121448",
+          "timestamp": "2024-08-09T20:14:06+00:00",
+          "url": "https://x.com/annieposting/status/1822003442250121448",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, bad, thing."
+        },
+        {
+          "id": "art_74486c53e9ba",
+          "title": "Good receipt from 2024-06-16",
+          "excerpt": "I love how im the most ungrateful transfem.\n\nI have the hottest most absurdly good girl voice and I just dont bother to use it a lot of the time bc I like my boy voice too.\n\nI have really long hair and pass 24/7 in public and yet I he/him boymaxx nowadays.\n\nIt's a powerful vibe.",
+          "source_document_id": "1802293756290642155",
+          "timestamp": "2024-06-16T10:54:51+00:00",
+          "url": "https://x.com/annieposting/status/1802293756290642155",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, bad, thing."
+        },
+        {
+          "id": "art_42d102a91ac3",
+          "title": "Good receipt from 2023-07-12",
+          "excerpt": "@egregirls like I have never felt unsafe conversing with a TPOT person even if they were a cishet white guy. Whereas seeing this sort of \"we need to talk about these people I want to go after\" post activates my fight or flight.\n\nNot a good way to talk about this issue!",
+          "source_document_id": "1678920454969643008",
+          "timestamp": "2023-07-12T00:13:23+00:00",
+          "url": "https://x.com/annieposting/status/1678920454969643008",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, bad, thing."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ccea1d7aae80",
+      "proof_score": 1,
+      "mass": 30.313,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_d1876c1d087e",
+      "name": "Don",
+      "summary": "Archive cluster around don: 856 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "want",
+        "any",
+        "say"
+      ],
+      "artifacts": [
+        {
+          "id": "art_c8051cb34cf2",
+          "title": "Don receipt from 2024-03-29",
+          "excerpt": "I don't want to do porn I want to do liveleak",
+          "source_document_id": "1773607926751437252",
+          "timestamp": "2024-03-29T07:07:36+00:00",
+          "url": "https://x.com/annieposting/status/1773607926751437252",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, any."
+        },
+        {
+          "id": "art_c5b6587513c1",
+          "title": "Don receipt from 2023-03-26",
+          "excerpt": "i want damaged girls to be happy, i want to save them all, i want to give them every resource i have including my life. theres no purpose to my existence if i cant help them. im not a person i don't have my own desires.",
+          "source_document_id": "1639894303039422469",
+          "timestamp": "2023-03-26T07:37:24+00:00",
+          "url": "https://x.com/annieposting/status/1639894303039422469",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, any."
+        },
+        {
+          "id": "art_85d3fdc2a7e7",
+          "title": "Don receipt from 2024-07-29",
+          "excerpt": "The elites don't want you to know this but any girl in ur house is free, u can meow at her and pat her on the head for no reason if u run into her during the course of ur day.",
+          "source_document_id": "1817785345720918034",
+          "timestamp": "2024-07-29T04:52:53+00:00",
+          "url": "https://x.com/annieposting/status/1817785345720918034",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, any."
+        },
+        {
+          "id": "art_8778fd54c8a5",
+          "title": "Don receipt from 2024-03-12",
+          "excerpt": "I don't have a reply guy, I just have one mutual I have never spoken to in my life that likes 99% of my tweets for some reason",
+          "source_document_id": "1767350644439171134",
+          "timestamp": "2024-03-12T00:43:24+00:00",
+          "url": "https://x.com/annieposting/status/1767350644439171134",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, any."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_a1ed0a827a86",
+      "proof_score": 1,
+      "mass": 30.229,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_a4223fc0d116",
+      "name": "Elytramithra",
+      "summary": "Archive cluster around elytramithra: 881 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "elytramithra",
+        "ely",
+        "hemlocktapioca",
+        "time",
+        "confusedemoji"
+      ],
+      "artifacts": [
+        {
+          "id": "art_81dff9f17863",
+          "title": "Elytramithra receipt from 2024-04-04",
+          "excerpt": "@ElytraMithra prog amphetamines and psychedelics are an essential addition to any HRT regimen",
+          "source_document_id": "1776031618609938807",
+          "timestamp": "2024-04-04T23:38:29+00:00",
+          "url": "https://x.com/annieposting/status/1776031618609938807",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: elytramithra, ely, hemlocktapioca, time."
+        },
+        {
+          "id": "art_a4a18d5ed2f5",
+          "title": "Elytramithra receipt from 2024-08-05",
+          "excerpt": "@ElytraMithra @ChazakielDoremi ngl when I caught a glimpse of this I legitimately thought you had said the n word and was fascinated and concerned as to the context",
+          "source_document_id": "1820553101046411708",
+          "timestamp": "2024-08-05T20:10:58+00:00",
+          "url": "https://x.com/annieposting/status/1820553101046411708",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: elytramithra, ely, hemlocktapioca, time."
+        },
+        {
+          "id": "art_bbfab322be4c",
+          "title": "Elytramithra receipt from 2024-07-18",
+          "excerpt": "went to meet someone potentially offering me housing and had a lovely chat about 4chan and @ElytraMithra, as one does when meeting a potential roommate.",
+          "source_document_id": "1814041608431829296",
+          "timestamp": "2024-07-18T20:56:37+00:00",
+          "url": "https://x.com/annieposting/status/1814041608431829296",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: elytramithra, ely, hemlocktapioca, time."
+        },
+        {
+          "id": "art_14c1d0aa0011",
+          "title": "Elytramithra receipt from 2024-07-13",
+          "excerpt": "@ElytraMithra this is incredible and correct reasoning https://t.co/5M0y2Uo3NC",
+          "source_document_id": "1812240452189602190",
+          "timestamp": "2024-07-13T21:39:28+00:00",
+          "url": "https://x.com/annieposting/status/1812240452189602190",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: elytramithra, ely, hemlocktapioca, time."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_a97405414a9d",
+      "proof_score": 1,
+      "mass": 28.586,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_82b885ea61d7",
+      "name": "Only",
+      "summary": "Archive cluster around only: 761 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "only",
+        "thing",
+        "way",
+        "could",
+        "time"
+      ],
+      "artifacts": [
+        {
+          "id": "art_2f92d2c0e956",
+          "title": "Only receipt from 2024-04-27",
+          "excerpt": "i'm literally the highest value housewife, im constantly abusing stimulants and I'm a fantastic cook so im effectively a free maid and personal chef and I only have to eat every other day, she would barely have to spend more each week on groceries et al",
+          "source_document_id": "1784360945030213831",
+          "timestamp": "2024-04-27T23:16:15+00:00",
+          "url": "https://x.com/annieposting/status/1784360945030213831",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, thing, way, could."
+        },
+        {
+          "id": "art_e16b86786c11",
+          "title": "Only receipt from 2024-04-04",
+          "excerpt": "\"im not a person\" \"im a therian doggirl\"\n\nI didnt obtain my flesh until approximately last week and eldrich is the only word in this tongue that can begin to piece together why",
+          "source_document_id": "1776003590106034385",
+          "timestamp": "2024-04-04T21:47:07+00:00",
+          "url": "https://x.com/annieposting/status/1776003590106034385",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, thing, way, could."
+        },
+        {
+          "id": "art_fe1fd4a4497d",
+          "title": "Only receipt from 2024-08-02",
+          "excerpt": "Pedo hunter that's an age regressor and isn't acting when she chats with them and only exposes groomers that are bad at it.",
+          "source_document_id": "1819219523779854440",
+          "timestamp": "2024-08-02T03:51:48+00:00",
+          "url": "https://x.com/annieposting/status/1819219523779854440",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, thing, way, could."
+        },
+        {
+          "id": "art_434fdc360b91",
+          "title": "Only receipt from 2024-08-17",
+          "excerpt": "I have my phone set to turn on do not disturb when I set it screen side down. But I have it set to still make a sound when I get notifications from one of my FPs and I only just now realised how how this is basically a clicker if they ever obtain a recording of my notif sound",
+          "source_document_id": "1824946174350225502",
+          "timestamp": "2024-08-17T23:07:28+00:00",
+          "url": "https://x.com/annieposting/status/1824946174350225502",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, thing, way, could."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_db483dece509",
+      "proof_score": 1,
+      "mass": 30.148,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_710c8951531e",
+      "name": "Should",
+      "summary": "Archive cluster around should: 603 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "should",
+        "say",
+        "party",
+        "workers",
+        "every"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5d33130a2c84",
+          "title": "Should receipt from 2024-08-21",
+          "excerpt": "Sometimes I wonder if I should seek therapy https://t.co/MgYYvryo2u",
+          "source_document_id": "1826349642210312483",
+          "timestamp": "2024-08-21T20:04:21+00:00",
+          "url": "https://x.com/annieposting/status/1826349642210312483",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: should, say, party, workers."
+        },
+        {
+          "id": "art_d937cbb7e631",
+          "title": "Should receipt from 2024-09-05",
+          "excerpt": "your gf should be able to do major surgeries on you\n\nwhether you survive? irrelevant, let women just do things https://t.co/4xOLAAqEH9",
+          "source_document_id": "1831826760910131509",
+          "timestamp": "2024-09-05T22:48:28+00:00",
+          "url": "https://x.com/annieposting/status/1831826760910131509",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: should, say, party, workers."
+        },
+        {
+          "id": "art_47472e6b0917",
+          "title": "Should receipt from 2024-07-05",
+          "excerpt": "One of the most important lessons i've learned is that if you are faced with a split second decision where you can do something but it might go badly, or you can do nothing and you might regret it later, you should always do something.",
+          "source_document_id": "1809245734241476724",
+          "timestamp": "2024-07-05T15:19:31+00:00",
+          "url": "https://x.com/annieposting/status/1809245734241476724",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: should, say, party, workers."
+        },
+        {
+          "id": "art_db04c1b9fa89",
+          "title": "Should receipt from 2023-09-07",
+          "excerpt": "imma be honest, if man is that strong, he deserves no charges for doing this. Like we should just let him off with a warning this once and return him to prison. https://t.co/Rurxk8QhcR",
+          "source_document_id": "1699810746195214681",
+          "timestamp": "2023-09-07T15:43:57+00:00",
+          "url": "https://x.com/annieposting/status/1699810746195214681",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: should, say, party, workers."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_fe640f2675b6",
+      "proof_score": 0.99,
+      "mass": 29.041,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
